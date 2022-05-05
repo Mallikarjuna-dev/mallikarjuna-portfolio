@@ -24,7 +24,7 @@ const Banner = () => {
             <A
               target="_blank"
               rel="noreferrer"
-              href="/resume/Mallikarjuna_resume.pdf"
+              href="/resume/Mallikarjuna_resume1.pdf"
             >
               Resume
             </A>

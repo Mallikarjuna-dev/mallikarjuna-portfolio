@@ -42,7 +42,7 @@ const Projects = () => {
     //   tech_stack: [<FaReact />, <SiRedux />, <FaJs />, <FaHtml5 />, <FaCss3 />],
     // },
     {
-      id: 2,
+      id: 1,
       project_name: "Forestessentialsindia Clone",
       image: "/project_images/project-2.png",
       project_desc:
@@ -71,7 +71,7 @@ const Projects = () => {
     // },
     //
     {
-      id: 4,
+      id: 2,
       project_name: "NINE-WEST Clone",
       image: "/project_images/project-1.png",
       project_desc:
@@ -88,23 +88,23 @@ const Projects = () => {
         <SiMongodb />,
       ],
     },
-    // {
-    //   id: 3,
-    //   project_name: "GROWW Clone",
-    //   image: "/project_images/GROWW.png",
-    //   project_desc:
-    //     "An online stocks trading web app. Built using JS, Express js, Node js and MongoDB.",
-    //   deploy_link: "https://growww-clone.netlify.app/",
-    //   repo_link: "https://github.com/Vishal-080/Groww_Clone",
-    //   tech_stack: [
-    //     <FaHtml5 />,
-    //     <FaCss3 />,
-    //     <FaJs />,
-    //     <FaNodeJs />,
-    //     <SiMongodb />,
-    //     <FaNodeJs />,
-    //   ],
-    // },
+    {
+      id: 3,
+      project_name: "Ikea Clone",
+      image: "/project_images/project-3.png",
+      project_desc:
+        "An online stocks trading web app. Built using JS, Express js, Node js and MongoDB.",
+      deploy_link: "https://ikea-frontend-pi.vercel.app/",
+      repo_link: "https://github.com/Mallikarjuna-dev/Ikea_frontend",
+      tech_stack: [
+        <FaHtml5 />,
+        <FaCss3 />,
+        <FaJs />,
+        <FaReact />,
+        <SiMongodb />,
+        <FaNodeJs />,
+      ],
+    },
     // {
     //   id: 5,
     //   project_name: "Bluemercury Clone",
