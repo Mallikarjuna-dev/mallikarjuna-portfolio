@@ -24,7 +24,7 @@ const Banner = () => {
             <A
               target="_blank"
               rel="noreferrer"
-              href="/resume/Mallikarjuna_resume1.pdf"
+              href="/resume/fw14_335_mallikarjuna_annigeri.pdf"
             >
               Resume
             </A>

@@ -20,7 +20,7 @@ export const A = styled.a`
 
 export const BoxDiv = styled.div`
   text-align: center;
-  width: 34.3333%;
+  width: 40.3333%;
   @media (max-width: 1025px) {
     width: 50%;
   }
@@ -43,7 +43,7 @@ export const ServiceBox = styled.div`
 `;
 
 export const ProjectDiv = styled.div`
-  width: 85%;
+  width: 90%;
   margin: 0 auto;
   @media (max-width: 1125px) {
     width: 95%;
