@@ -38,7 +38,7 @@ const Stats = () => {
       <br />
       <img
         src="https://ghchart.rshah.org/021F34/Mallikarjuna-dev"
-        alt="fdsdf"
+        alt="Activity on GitHub"
         style={{ width: "80%", display: "block", margin: "auto" }}
       />
     </Container>
